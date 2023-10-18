@@ -31,19 +31,23 @@ Blentin, Gian-Marco
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |23.08.2023|Blentin Tosuni|Zahl 1 bis 100 wird generiert und im Hintergrund gespeichert.| 45 min              |
-| 2.A  |23.08.2023|Blentin Tosuni| Der Benutzer kann Zahlen raten.             |    45 min           |
-| 3.A  |30.08.2023|Blentin Tosuni| Rateversuche          |    45 min           |
-| 4.A  |30.08.2023|Blentin Tosuni| Fehleingaben            |    45 min           |
-| 5.A  |30.08.2023|Blentin Tosuni| Erweiterungen             |   90  min           |
-| 6.A  |06.09.2023|Blentin Tosuni| Erweiterungen             |   90  min           |
-Total: 360 min
+| 1.A  |18.10.2023|Gian-Marco, Blentin|Spieler kann von einem Block zum nächsten springen.| 135 min              |
+| 2.A  |18.10.2023|Blentin| spawnen            |    45 min           |
+| 6.A  |25.10.2023|Blentin, Gin-Marco| Level wird schwieriger.          |    45 min           |
+| 5.A  |25.10.2023|Blentin, Gian-Marco| Level steigt nach jedem Checkpoint            |    45 min           |
+| 4.A  |25.10.2023|Blentin| Design           |    45 min           |
+| 5.A  |25.10.2023|Blentin, Gian-Marco| Level steigt nach jedem Checkpoint            |    45 min           |
+| 1.A  |25.10.2023|Gian-Marco, Blentin|Spieler kann von einem Block zum nächsten springen.| 135 min              |
+| 6.A  |01.11.2023|Blentin, Gin-Marco| Level wird schwieriger.          |    45 min           |
+| 1.A  |01.11.2023|Gian-Marco, Blentin|Spieler kann von einem Block zum nächsten springen.| 135 min              |
+| 3.A  |01.11.2023|Gian-Marco| Spielfortschritt        |    45 min           |
+
+Total: 715 min
 
 
 
 ## 3 Entscheiden
-Ich möchte ein Spiel programmieren, wo eine Zahl generiert wird und der Spieler die Zahl erraten muss. Die Voraussetzungen sind, dass wir es mit C# programmieren und dass es Objektorientiert programmiert ist.
-
+Wir möchten ein Spiel auf Roblox erstellen und mit Lua programmieren.
 
 
 
