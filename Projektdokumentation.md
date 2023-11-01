@@ -33,12 +33,12 @@ Blentin, Gian-Marco
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A  |18.10.2023|Gian-Marco, Blentin|Spieler kann von einem Block zum nächsten springen.| 135 min              |
 | 2.A  |18.10.2023|Blentin| spawnen            |    45 min           |
-| 6.A  |25.10.2023|Blentin, Gin-Marco| Level wird schwieriger.          |    45 min           |
+| 6.A  |25.10.2023|Blentin, Gian-Marco| Level wird schwieriger.          |    45 min           |
 | 5.A  |25.10.2023|Blentin, Gian-Marco| Level steigt nach jedem Checkpoint            |    45 min           |
 | 4.A  |25.10.2023|Blentin| Design           |    45 min           |
 | 5.A  |25.10.2023|Blentin, Gian-Marco| Level steigt nach jedem Checkpoint            |    45 min           |
 | 1.A  |25.10.2023|Gian-Marco, Blentin|Spieler kann von einem Block zum nächsten springen.| 135 min              |
-| 6.A  |01.11.2023|Blentin, Gin-Marco| Level wird schwieriger.          |    45 min           |
+| 6.A  |01.11.2023|Blentin, Gian-Marco| Level wird schwieriger.          |    45 min           |
 | 1.A  |01.11.2023|Gian-Marco, Blentin|Spieler kann von einem Block zum nächsten springen.| 135 min              |
 | 3.A  |01.11.2023|Gian-Marco| Spielfortschritt        |    45 min           |
 
@@ -56,9 +56,9 @@ Wir möchten ein Spiel auf Roblox erstellen und mit Lua programmieren.
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  | 23.08.2023|Blentin Tosuni|45 min  | 20 min                    |
-| 2.A  |23.08.2023       | Blentin Tosuni          |45 min               | 25 min                  |
-| 3.A  |30.08.2023       | Blentin Tosuni          |45 min               | 20 min                  |
+| 1.A  | 18.10.2023|Blentin Tosuni|135 min  | 90min                    |
+| 2.A  |18.10.2023       | Blentin Tosuni          |45 min               | 45 min                  |
+| 3.A  |25.10.2023       | Blentin Tosuni          |45 min               | 20 min                  |
 | 4.A  |30.08.2023       | Blentin Tosuni          |45 min               | 20 min                  |
 | 5.A  |30.08.2023       | Blentin Tosuni          |45 min               | 90 min                  |
 | 6.A  |30.08.2023       | Blentin Tosuni          |45 min               | 90 min                  |
