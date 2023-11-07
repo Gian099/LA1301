@@ -31,18 +31,20 @@ Blentin, Gian-Marco
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |18.10.2023|Gian-Marco, Blentin|Spieler kann von einem Block zum nächsten springen.| 135 min              |
+| 1.A  |18.10.2023|Gian-Marco, Blentin|Spieler kann von einem Block zum nächsten springen.| 90 min              |
+| 1.A  |25.10.2023|Gian-Marco, Blentin|Spieler kann von einem Block zum nächsten springen.| 90 min              |
+| 1.A  |01.11.2023|Gian-Marco, Blentin|Spieler kann von einem Block zum nächsten springen.| 90 min              |
 | 2.A  |18.10.2023|Blentin| spawnen            |    45 min           |
-| 6.A  |25.10.2023|Blentin, Gian-Marco| Level wird schwieriger.          |    45 min           |
-| 5.A  |25.10.2023|Blentin, Gian-Marco| Level steigt nach jedem Checkpoint            |    45 min           |
+| 3.A  |01.11.2023|Gian-Marco| Spielfortschritt        |    45 min           |
 | 4.A  |25.10.2023|Blentin| Design           |    45 min           |
 | 5.A  |25.10.2023|Blentin, Gian-Marco| Level steigt nach jedem Checkpoint            |    45 min           |
-| 1.A  |25.10.2023|Gian-Marco, Blentin|Spieler kann von einem Block zum nächsten springen.| 135 min              |
-| 6.A  |01.11.2023|Blentin, Gian-Marco| Level wird schwieriger.          |    45 min           |
-| 1.A  |01.11.2023|Gian-Marco, Blentin|Spieler kann von einem Block zum nächsten springen.| 135 min              |
-| 3.A  |01.11.2023|Gian-Marco| Spielfortschritt        |    45 min           |
+| 5.A  |25.10.2023|Blentin, Gian-Marco| Level steigt nach jedem Checkpoint            |    45 min           |
+| 6.A  |25.10.2023|Blentin, Gian-Marco| Level wird schwieriger.          |    90 min           |
+| 6.A  |01.11.2023|Blentin, Gian-Marco| Level wird schwieriger.          |    90 min           |
 
-Total: 715 min
+
+
+Total: 675 min
 
 
 
@@ -56,22 +58,26 @@ Wir möchten ein Spiel auf Roblox erstellen und mit Lua programmieren.
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  | 18.10.2023|Blentin Tosuni|135 min  | 90min                    |
-| 2.A  |18.10.2023       | Blentin Tosuni          |45 min               | 45 min                  |
-| 3.A  |25.10.2023       | Blentin Tosuni          |45 min               | 20 min                  |
-| 4.A  |30.08.2023       | Blentin Tosuni          |45 min               | 20 min                  |
-| 5.A  |30.08.2023       | Blentin Tosuni          |45 min               | 90 min                  |
-| 6.A  |30.08.2023       | Blentin Tosuni          |45 min               | 90 min                  |
+| 1.A  | 18.10.2023|Gian-Marco, Blentin|90 min  | 90min                    |
+| 1.A  | 25.10.2023|Gian-Marco, Blentin|90 min  | 90min                    |
+| 1.A  | 01.11.2023|Gian-Marco, Blentin|90 min  | 90min                    |
+| 2.A  | 18.10.2023|Blentin|45 min  | 45min                    |
+| 3.A  | 01.11.2023|Gian-Marco|45 min  | 45min                    |
+| 4.A  |25.10.2023       | Blentin          |45 min               | 45 min                  |
+| 6.A  |25.10.2023       | Blentin,Gian-Marco        |90 min               | 90 min                  |
+| 6.A  |01.11.2023       | Blentin,Gian-Marco        |90 min               | 90 min                  |
+
+5.A haben wir nicht geschafft.
 
 ## 5 Kontrollieren
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |30.08.2023|OK |Blentin Tosuni        |
-| 2.1  |30.08.2023|OK |Blentin Tosuni        |
+| 1.1  |18.10.2023|OK |Blentin Tosuni        |
+| 2.1  |18.10.2023|OK |Blentin Tosuni        |
 | 3.1  |30.08.2023|OK |Blentin Tosuni        |
 | 4.1  |30.08.2023|OK |Blentin Tosuni        |
-| 5.1  |30.08.2023|OK |Blentin Tosuni        |
+| 5.1  |30.08.2023|Nok |Blentin Tosuni        |
 | 6.1  |30.08.2023|OK |Blentin Tosuni        |
 
 
