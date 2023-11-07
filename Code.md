@@ -1,5 +1,5 @@
 **Checkpoint script:**
-```local Players = game:GetService("Players")
+`local Players = game:GetService("Players")
 local ServerStorage = game:GetService("ServerStorage")
 local checkpoint = script.Parent
 function onTouched(hit)
@@ -25,30 +25,30 @@ function onTouched(hit)
 		end
 		checkpointValue.Value = checkpoint
 	end
-end checkpoint.Touched:Connect(onTouched)```
+end checkpoint.Touched:Connect(onTouched)`
 
 **Wenn man den Strahl berührt stirbt man:**
 
-```script.Parent.Touched:Connect(function(hit)
+`script.Parent.Touched:Connect(function(hit)
 	if game.Players:GetPlayerFromCharacter(hit.Parent) then
 		hit.Parent.Humanoid.Health = 0		
 	end
-end)```
+end)`
 
 **Wenn man durch die falsche Türe geht stirbt man:**
 
-```script.Parent.Touched:connect(function(hit)
+`script.Parent.Touched:connect(function(hit)
 	if hit and hit.Parent and hit.Parent:FindFirstChild("Humanoid") then
 		hit.Parent.Humanoid.Health = 0
 	end
-end)```
+end)`
 
 **Wenn man die Linie berührt stirbt man:**
 
-```function onTouched(part)
+`function onTouched(part)
  local h = part.Parent:findFirstChild("Humanoid")
  if h~=nil then
   h.Health = h.Health-100
  end
 end
-script.Parent.Touched:connect(onTouched)```
+script.Parent.Touched:connect(onTouched)`
